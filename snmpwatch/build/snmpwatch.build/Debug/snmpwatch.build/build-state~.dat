@@ -1,0 +1,215 @@
+Tsnmpwatch
+v7
+r0
+t312371943.361125
+cCheck dependencies
+cProcessInfoPlistFile /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Info.plist snmpwatch-Info.plist
+cCopyStringsFile /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/vu/vuOLeC9ZHf8GRZDMO8SGlE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snmpwatch_Prefix-djvswtrfczsqvaaxptlswapnbpcz/snmpwatch_Prefix.pch.gch snmpwatch_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Resources/snmpwatch_DataModel.mom /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_DataModel.xcdatamodel
+cCompileC build/snmpwatch.build/Debug/snmpwatch.build/Objects-normal/x86_64/main.o /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/snmpwatch.build/Debug/snmpwatch.build/Objects-normal/x86_64/snmpwatch_AppDelegate.o /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_AppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/MacOS/snmpwatch normal x86_64
+cTouch /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004C6131E7000000000000A5E0
+t1281438183
+s42464
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/English.lproj/InfoPlist.strings
+c000000004CEE32D2000000000000005A
+t1290678994
+s90
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/English.lproj/MainMenu.xib
+c000000004CEE32D200000000000202D4
+t1290678994
+s131796
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app
+t1290679143
+s102
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Info.plist
+t1290679140
+s892
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/MacOS/snmpwatch
+t1290679143
+s22192
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/PkgInfo
+t1290679140
+s8
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1290679140
+s90
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Resources/English.lproj/MainMenu.nib
+t1290679140
+s29892
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Resources/snmpwatch_DataModel.mom
+t1290679142
+s488
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/Objects-normal/x86_64/main.o
+t1290679142
+s5016
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/Objects-normal/x86_64/snmpwatch.LinkFileList
+c000000004CEE3364000000000000010D
+t1290679140
+s269
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/Objects-normal/x86_64/snmpwatch_AppDelegate.o
+t1290679142
+s41736
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/main.m
+c000000004CEE32D20000000000000103
+t1290678994
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_AppDelegate.h
+c000000004CEE32D2000000000000030A
+t1290678994
+s778
+i<Cocoa/Cocoa.h>
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_AppDelegate.m
+c000000004CEE32D20000000000001E19
+t1290678994
+s7705
+i"snmpwatch_AppDelegate.h"
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_DataModel.xcdatamodel
+c000000004CEE32D20000000000000088
+t1290678994
+s136
+
+N/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_Prefix.pch
+c000000004CEE32D20000000000000095
+t1290678994
+s149
+i<Cocoa/Cocoa.h>
+
+N/var/folders/vu/vuOLeC9ZHf8GRZDMO8SGlE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snmpwatch_Prefix-djvswtrfczsqvaaxptlswapnbpcz/snmpwatch_Prefix.pch.gch
+t1290679142
+s54265616
+
+Nsnmpwatch-Info.plist
+c000000004CEE32D200000000000003F3
+t1290678994
+s1011
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312371940#312371940#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/snmpwatch.build/Debug/snmpwatch.build/Objects-normal/x86_64/main.o /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312371942.759106
+e312371942.921690
+r1
+xCompileC
+xbuild/snmpwatch.build/Debug/snmpwatch.build/Objects-normal/x86_64/main.o
+x/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/main.m312371942#312371942#0(0"0(0#0#59"/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/main.m8600135360#1220"    cd /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/snmpwatch.hmap -F/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug -I/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/include -I/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/DerivedSources/x86_64 -I/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/DerivedSources -include /var/folders/vu/vuOLeC9ZHf8GRZDMO8SGlE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snmpwatch_Prefix-djvswtrfczsqvaaxptlswapnbpcz/snmpwatch_Prefix.pch -c /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/main.m -o /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/snmpwatch.build/Debug/snmpwatch.build/Objects-normal/x86_64/snmpwatch_AppDelegate.o /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_AppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312371942.759671
+e312371942.949414
+r1
+xCompileC
+xbuild/snmpwatch.build/Debug/snmpwatch.build/Objects-normal/x86_64/snmpwatch_AppDelegate.o
+x/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_AppDelegate.m312371942#312371942#0(0"0(0#0#76"/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_AppDelegate.m8599976928#1254"    cd /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/snmpwatch.hmap -F/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug -I/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/include -I/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/DerivedSources/x86_64 -I/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/DerivedSources -include /var/folders/vu/vuOLeC9ZHf8GRZDMO8SGlE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snmpwatch_Prefix-djvswtrfczsqvaaxptlswapnbpcz/snmpwatch_Prefix.pch -c /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_AppDelegate.m -o /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/Objects-normal/x86_64/snmpwatch_AppDelegate.o0#
+
+CCompileXIB /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/English.lproj/MainMenu.xib
+s312371940.544030
+e312371940.698364
+r1
+xCompileXIB
+x/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib312371940#312371940#0(0"0(0#0#79"/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/English.lproj/MainMenu.xib8602719232#408"    cd /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Resources/English.lproj/MainMenu.nib /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s312371940.529497
+e312371940.733767
+r1
+xCopyStringsFile
+x/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings312371940#312371940#0(0"0(0#0#84"/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/English.lproj/InfoPlist.strings8601432992#396"    cd /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Resources/English.lproj0#
+
+CDataModelCompile /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Resources/snmpwatch_DataModel.mom /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_DataModel.xcdatamodel
+s312371942.758546
+e312371942.847104
+r1
+xDataModelCompile
+x/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Resources/snmpwatch_DataModel.mom
+x/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_DataModel.xcdatamodel
+lSLF07#2@92"Compile /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_DataModel.xcdatamodel312371942#312371942#0(0"0(0#0#84"/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_DataModel.xcdatamodel8602371488#324"    cd /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_DataModel.xcdatamodel /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Resources/snmpwatch_DataModel.mom0#
+
+CLd /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/MacOS/snmpwatch normal x86_64
+s312371942.949479
+e312371943.335975
+r1
+xLd
+x/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/MacOS/snmpwatch
+xnormal
+xx86_64
+lSLF07#2@108"Link /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/MacOS/snmpwatch312371942#312371943#0(0"0(0#0#0"8599783680#622"    cd /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug -F/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug -filelist /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/Objects-normal/x86_64/snmpwatch.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/MacOS/snmpwatch0#
+
+CProcessInfoPlistFile /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Info.plist snmpwatch-Info.plist
+s312371940.510489
+e312371940.529430
+r1
+xProcessInfoPlistFile
+x/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Info.plist
+xsnmpwatch-Info.plist
+lSLF07#2@28"Process snmpwatch-Info.plist312371940#312371940#0(0"0(0#0#73"/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch-Info.plist32932993188560964#358"    cd /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch    builtin-infoPlistUtility snmpwatch-Info.plist -genpkginfo /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/vu/vuOLeC9ZHf8GRZDMO8SGlE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snmpwatch_Prefix-djvswtrfczsqvaaxptlswapnbpcz/snmpwatch_Prefix.pch.gch snmpwatch_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s312371940.733918
+e312371942.758397
+r1
+xProcessPCH
+x/var/folders/vu/vuOLeC9ZHf8GRZDMO8SGlE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snmpwatch_Prefix-djvswtrfczsqvaaxptlswapnbpcz/snmpwatch_Prefix.pch.gch
+xsnmpwatch_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile snmpwatch_Prefix.pch312371940#312371942#0(0"0(0#0#73"/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_Prefix.pch8602091584#1110"    cd /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/snmpwatch.hmap -F/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug -I/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/include -I/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/DerivedSources/x86_64 -I/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/snmpwatch.build/Debug/snmpwatch.build/DerivedSources -c /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/snmpwatch_Prefix.pch -o /var/folders/vu/vuOLeC9ZHf8GRZDMO8SGlE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/snmpwatch_Prefix-djvswtrfczsqvaaxptlswapnbpcz/snmpwatch_Prefix.pch.gch0#
+
+CTouch /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app
+s312371943.336039
+e312371943.361095
+r1
+xTouch
+x/Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app
+lSLF07#2@84"Touch /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app312371943#312371943#0(0"0(0#0#0"8601372576#161"    cd /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch    /usr/bin/touch -c /Users/almorel/Documents/almorel-lab/Cocoa/snmpwatch/build/Debug/snmpwatch.app0#
+

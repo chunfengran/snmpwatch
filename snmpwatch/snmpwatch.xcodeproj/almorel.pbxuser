@@ -1,0 +1,383 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8D97B24D129E6A52009FBE30 /* snmpwatch */;
+		activeTarget = 8D1107260486CEB800E47090 /* snmpwatch */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* snmpwatch */,
+		);
+		codeSenseManager = 8D97B261129E6A66009FBE30 /* Code sense */;
+		executables = (
+			8D97B24D129E6A52009FBE30 /* snmpwatch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1114,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					1090,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 312393224;
+			PBXWorkspaceStateSaveDate = 312393224;
+		};
+		perUserProjectItems = {
+			8DAE470D129EB59E00CE933F = 8DAE470D129EB59E00CE933F /* PBXTextBookmark */;
+			8DAE4721129EB65000CE933F = 8DAE4721129EB65000CE933F /* PBXTextBookmark */;
+			8DAE476A129EBE0400CE933F = 8DAE476A129EBE0400CE933F /* PBXTextBookmark */;
+			8DAE476B129EBE0400CE933F = 8DAE476B129EBE0400CE933F /* PBXTextBookmark */;
+			8DAE476C129EBE0400CE933F = 8DAE476C129EBE0400CE933F /* PBXBookmark */;
+			8DAE476D129EBE0400CE933F = 8DAE476D129EBE0400CE933F /* XDModelBookmark */;
+			8DEA7BBF129E8D17001E67B7 = 8DEA7BBF129E8D17001E67B7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8D97B260129E6A66009FBE30 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	770B37EC0679A11B001EADE2 /* snmpwatch_DataModel.xcdatamodel */ = {
+		uiCtxt = {
+			"Xdesign Model Editor Bookmark Key" = {
+				UIContextForDetailArea = {
+					_indexOfSelectedPane = 0;
+					_indexOfSelectedView = 1;
+				};
+				UIContextForEntityArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnns = (
+						"ET Entity",
+						"ET Abstract",
+						"ET Class",
+					);
+					chosenTableColumnns_sortDirections = (
+						YES,
+					);
+					chosenTableColumnns_sortKeys = (
+						name,
+					);
+					chosenTableColumnns_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidths = (
+						103.000000,
+						22.000000,
+						137.080078,
+					);
+				};
+				UIContextForLayoutManager = {
+					detailSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {882, 218}}",
+							"{{887, 0}, {464, 218}}",
+						);
+					};
+					diagramSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {1351, 220}}",
+							"{{0, 225}, {1351, 436}}",
+						);
+					};
+					tableSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {287, 218}}",
+							"{{292, 0}, {588, 218}}",
+						);
+					};
+				};
+				UIContextForPropertyArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnnFRTs = (
+						"FT Fetch Request",
+						"FT Predicate",
+					);
+					chosenTableColumnnFRTs_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnFRTs_sortKeys = (
+						name,
+					);
+					chosenTableColumnnFRTs_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsAT = (
+						"AT Attribute",
+						"AT Type",
+					);
+					chosenTableColumnnsAT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsAT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsAT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsFPT = (
+						"FP FetchedProperty",
+						"FP Destination",
+						"FP Predicate",
+					);
+					chosenTableColumnnsFPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsFPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsFPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsPT = (
+						"PT Property",
+						"PT Kind",
+						"PT SharedKeyOne",
+					);
+					chosenTableColumnnsPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsRT = (
+						"RT Relationship",
+						"RT Destination",
+					);
+					chosenTableColumnnsRT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsRT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsRT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidthsAT = (
+						128.000000,
+						64.000000,
+					);
+					chosenTableWidthsFPT = (
+						128.000000,
+						64.000000,
+						144.764160,
+					);
+					chosenTableWidthsFRT = (
+						128.000000,
+						249.764160,
+					);
+					chosenTableWidthsPT = (
+						128.000000,
+						108.110840,
+						325.570801,
+					);
+					chosenTableWidthsRT = (
+						128.000000,
+						64.000000,
+					);
+				};
+				"xdesign model browser state key - shown/hidden" = 1;
+				"xdesign model diagram view visible rect key" = "{{-319, -3}, {1336, 421}}";
+			};
+		};
+	};
+	77C8280B06725ACE000B614F /* snmpwatch_AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1292, 649}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 778}";
+		};
+	};
+	8D1107260486CEB800E47090 /* snmpwatch */ = {
+		activeExec = 0;
+		executables = (
+			8D97B24D129E6A52009FBE30 /* snmpwatch */,
+		);
+	};
+	8D97B24D129E6A52009FBE30 /* snmpwatch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = snmpwatch;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	8D97B260129E6A66009FBE30 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "google-snmpwatch";
+			};
+		};
+	};
+	8D97B261129E6A66009FBE30 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DAE470D129EB59E00CE933F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8DEA7CAC129EA1D3001E67B7 /* mySNMP.h */;
+		name = "mySNMP.h: 12";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 239;
+		vrLoc = 0;
+	};
+	8DAE4721129EB65000CE933F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8DEA7B8E129E6DE6001E67B7 /* GuiInterface.h */;
+		name = "GuiInterface.h: 14";
+		rLen = 0;
+		rLoc = 295;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 0;
+	};
+	8DAE476A129EBE0400CE933F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8DEA7B8F129E6DE6001E67B7 /* GuiInterface.m */;
+		name = "GuiInterface.m: 112";
+		rLen = 0;
+		rLoc = 3647;
+		rType = 0;
+		vrLen = 1652;
+		vrLoc = 1996;
+	};
+	8DAE476B129EBE0400CE933F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77C8280B06725ACE000B614F /* snmpwatch_AppDelegate.h */;
+		name = "snmpwatch_AppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 778;
+		vrLoc = 0;
+	};
+	8DAE476C129EBE0400CE933F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 770B37EC0679A11B001EADE2 /* snmpwatch_DataModel.xcdatamodel */;
+	};
+	8DAE476D129EBE0400CE933F /* XDModelBookmark */ = {
+		isa = XDModelBookmark;
+		fRef = 770B37EC0679A11B001EADE2 /* snmpwatch_DataModel.xcdatamodel */;
+		fallbackIsa = PBXBookmark;
+	};
+	8DEA7B8E129E6DE6001E67B7 /* GuiInterface.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1292, 649}}";
+			sepNavSelRange = "{295, 0}";
+			sepNavVisRange = "{0, 370}";
+			sepNavWindowFrame = "{{15, 91}, {1927, 1322}}";
+		};
+	};
+	8DEA7B8F129E6DE6001E67B7 /* GuiInterface.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {946, 1612}}";
+			sepNavSelRange = "{1165, 0}";
+			sepNavVisRange = "{891, 736}";
+			sepNavWindowFrame = "{{215, 78}, {1927, 1322}}";
+		};
+	};
+	8DEA7BB9129E8D05001E67B7 /* net-snmp-includes.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = "net-snmp-includes.h";
+		path = "/Developer/SDKs/MacOSX10.6.sdk/usr/include/net-snmp/net-snmp-includes.h";
+		sourceTree = "<absolute>";
+	};
+	8DEA7BBF129E8D17001E67B7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8DEA7BB9129E8D05001E67B7 /* net-snmp-includes.h */;
+		name = "net-snmp-includes.h: 21";
+		rLen = 0;
+		rLoc = 416;
+		rType = 0;
+		vrLen = 703;
+		vrLoc = 0;
+	};
+	8DEA7CAC129EA1D3001E67B7 /* mySNMP.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1292, 646}}";
+			sepNavSelRange = "{187, 0}";
+			sepNavVisRange = "{0, 239}";
+		};
+	};
+}
